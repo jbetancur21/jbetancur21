@@ -6,7 +6,7 @@ Juan Pablo</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://inn.com.co/es" target="blank">Innterra SAS</a>
+- 🔭 I’m currently working in <a href="https://inn.com.co/es" target="_blank">Innterra SAS</a>
 
 - 🌱 I’m currently Working on Python developments
 
