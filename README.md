@@ -8,7 +8,7 @@ Juan Pablo</a></h1>
 
 - 🔭 I’m currently working in <a href="https://inn.com.co/es" target="_blank">Innterra SAS</a>
 
-- 🌱 I’m currently Working on Python developments
+- 🌱 I’m Working on API Python developments.
 
 - 🤝 I’m passionate for software architecture.
 
