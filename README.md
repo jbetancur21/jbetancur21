@@ -3,7 +3,7 @@ Juan Pablo</a></h1>
 <h3 align="center">A passionate Backend developer</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/jbetancur21/jbetancur21/blob/main/1d65b076-4ee6-4811-b679-dd9324b66b35.png">
 </a>
 
 - 🔭 I’m currently working in <a href="https://inn.com.co/es" target="_blank">Innterra SAS</a>
@@ -15,7 +15,7 @@ Juan Pablo</a></h1>
 - 🌱 I’m currently learning AWS
 
 <br/>
-<h3 align="center" > <img src="https://github.com/jbetancur21/jbetancur21/blob/main/1d65b076-4ee6-4811-b679-dd9324b66b35.png" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
